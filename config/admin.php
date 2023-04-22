@@ -22,7 +22,7 @@ return [
     | `img` tag, eg '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo' => '<img src="/vendor/dujiaoka-admin/images/logo.jpg" width="35"> &nbsp;独角 数卡',
+    'logo' => '<img src="/vendor/dujiaoka-admin/images/logo.jpg" width="35"> &nbsp;AI果果科技',
 
     /*
     |--------------------------------------------------------------------------
@@ -88,7 +88,7 @@ return [
     | Html title for all pages.
     |
     */
-    'title' => '独角数卡 - 后台控制中心',
+    'title' => 'AI果果科技 - 后台控制中心',
 
     /*
     |--------------------------------------------------------------------------

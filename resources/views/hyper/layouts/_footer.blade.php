@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-6">
             	<div class="footer-links">
-                    Powered by <a href="https://github.com/assimon/dujiaoka">@独角数卡.</a>
+                    Powered by <a href="https://chat.aichat199.com" target="_blank">@AI智能人机对讲系统</a>
                 </div>
             </div>
             <div class="col-md-6">
