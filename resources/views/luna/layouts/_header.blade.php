@@ -10,6 +10,15 @@
     @if(\request()->getScheme() == "https")
         <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
     @endif
+    <script>
+        var _hmt = _hmt || [];
+        (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?a56a10e8a4cc9c98f6de3d29c907e768";
+        var s = document.getElementsByTagName("script")[0]; 
+        s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
 </head>
 @if(dujiaoka_config_get('is_open_google_translate') == \App\Models\BaseModel::STATUS_OPEN)
 @include('luna.layouts.google_translate')
